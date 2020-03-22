@@ -1,3 +1,3 @@
 # java
 For CI only
-Practing CI with great Devop's Icon Pasha, Suchana and Poorni
+checking jenkins auto build via scmpolling
